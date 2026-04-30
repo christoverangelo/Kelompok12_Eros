@@ -20,6 +20,6 @@ gcc calculator.c -o calculator
 
 ## 👥 Team Roles
 
-- Christover Angelo: Project Lead  
-- Jesie Tenardi: Programmer  
-- Muhammad Rifat Faqih: Documentation
+- Christover Angelo: main, add
+- Jesie Tenardi: div
+- Muhammad Rifat Faqih: sub, mul
